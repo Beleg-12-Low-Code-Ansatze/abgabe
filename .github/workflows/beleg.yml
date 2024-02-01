@@ -25,8 +25,8 @@ jobs:
       - name: upload as latest release
         run: |
           cd ${{github.workspace}}
-          gh release delete-asset v1.0.0 tex/beleg12-lowcode.pdf 
-          gh release upload v1.0.0 tex/beleg12-lowcode.pdf
+          gh release delete-asset v1.0.0 beleg12-lowcode.pdf 
+          gh release upload v1.0.0 beleg12-lowcode.pdf
         env:
           GITHUB_TOKEN: ${{ github.TOKEN }}
         shell: bash
