@@ -1,9 +1,9 @@
 # Beleg 12 - Fähigkeiten und Vorgehen von Low-Code-Ansätzen
 
 # Autoren
-Teo Förste
-Christin Göb
-Chiara Schepke
+Teo Förste (INM-23)
+Christin Göb (MIM-23)
+Chiara Schepke (MIM-23)
 
 # Modul
 "Software Engineering” (Prof. Dr. Andreas Both, Wintersemester 2023/2024) an der HTWK Leipzig
